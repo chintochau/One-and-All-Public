@@ -1,5 +1,6 @@
 
 # One & All Event Organizer App
+### This Repo is a code sample that does not get updated, while i maintain my code in another private repo.
 <img src="https://user-images.githubusercontent.com/28828270/232227359-bfb28a0b-9385-488e-a6fd-50cbaa0c4bd2.png" width="200" height="200">
 
 ## Project Description
