@@ -1,0 +1,10 @@
+//
+//  APIKeys.xcconfig
+//  
+//
+//  Created by Jason Chau on 2023-03-16.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+ALGOLIA_API_KEY = dd0c0c81d707af56d63c92710c68c3c2
